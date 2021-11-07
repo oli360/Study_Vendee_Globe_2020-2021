@@ -130,3 +130,5 @@ dmypy.json
 
 #mac rubbish
 .DS_Store
+
+data/
