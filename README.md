@@ -2,4 +2,4 @@
 
 This project was a study of the 2020-2021 Vendée Globe which a single hand boat race around the globe. 
 
-The project studies the evolution of the participants during the race, along wiht the impact differnt boats can have.
+The project studies the evolution of the participants during the race, along with the impact different boats can have.
